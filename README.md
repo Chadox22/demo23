@@ -3,3 +3,6 @@ Ce projet est simple un projet de démonstration sur le fonctionnement d'un dép
 
 ## Centralisez votre code sur GitHub*
 Avec GitHub, on peut récupérer le code du dépot
+
+# Intéressons aux Pull Requets
+C'est à dire, la fusion de branches sur GitHub (enfin, en gros)
